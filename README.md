@@ -26,9 +26,10 @@ Experience: Total Working Years, Years at Company, Years Since Last Promotion
 👥 Total Employees: 1470
 🚪 Total Attrition: 237
 📉 Attrition Rate: 16.1%
-💰 Average Salary
-⏳ Average Tenure
-📊 Dashboard Features
+💰 Average Salary: 65k
+⏳ Average Tenure: 7.01
+
+# 📊 Dashboard Features
 
 🔹 Overview Page
 KPI Cards (Employees, Attrition, Attrition Rate)
